@@ -19,14 +19,14 @@ The following shows the results of applying the code to a grayscale image (with 
 Note: interpolate() and correctedInterpolate() produce almost identical results; therefore only results from interpolate() are shown
 
 
-   1. Original image
+   1. Original image  
    ![alt text](https://github.com/Utkarsh0902/image-interpolation/tree/main/readme-images/1_original.png)
 
 
    A. Zoomed-in original image
    B. Zoomed-in original image with bilinear interpolation from MATLAB
    C. Zoomed-in original image with nearest-neighbor interpolation from MATLAB
-   D. Scaled image using interpolate() function
+   D. Scaled image using interpolate() function  
    ![alt text](https://github.com/Utkarsh0902/image-interpolation/tree/main/readme-images/1_inter.png)
         
 
@@ -34,12 +34,12 @@ The following shows the results of applying the code to a color image (with comp
 
 
 
-  1. Original image
+  1. Original image  
   ![alt text](https://github.com/Utkarsh0902/image-interpolation/tree/main/readme-images/2_original.png)
 
 
   A. Zoomed-in original image
   B. Zoomed-in original image with bilinear interpolation from MATLAB
   C. Zoomed-in original image with nearest-neighbor interpolation from MATLAB
-  D. Scaled image using interpolate() function
+  D. Scaled image using interpolate() function  
   ![alt text](https://github.com/Utkarsh0902/image-interpolation/tree/main/readme-images/2_inter.png)
